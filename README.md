@@ -1,0 +1,2 @@
+# Algoritmizalas
+Algoritmizálás tantárgy dolgai
